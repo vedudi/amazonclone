@@ -25,6 +25,8 @@ const Services = () => {
             <Image source={SendMoney} style={styles.imgStyle} />
             <Text style={styles.title}> Sende Money </Text>
           </View>
+        </View>
+        <View style={styles.row}>
           <View style={styles.innerContainer}>
             <Image source={ScanQR} style={styles.imgStyle} />
             <Text style={styles.title}> Scan QR </Text>

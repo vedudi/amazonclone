@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     position: "relative",
   },
   wrapper: {
-    height: "100%",
+    height:300,
   },
   imgStyle: {
     width: "100%",
